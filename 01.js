@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. let uninitialized;
 console.log(uninitialized); // 결과값 < undefined >
  //암시적으로 정의되지 않은 값은 undefined가 뜨기 때문에
